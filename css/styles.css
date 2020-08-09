@@ -31,10 +31,10 @@
 body{
     padding: 50px 0px 0px 0px;
     z-index: 0;
-    <!-Whenever you are using a fixed top navigation bar 
+    /*Whenever you are using a fixed top navigation bar 
     it's a good idea to give this padding to the body 
     of your webpage so that the navigation doesn't cover
-     the topmost element in the body of your webpage.-->
+     the topmost element in the body of your webpage."*/
 }
 .navbar-dark{
     background-color: #512DA8;
